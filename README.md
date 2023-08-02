@@ -1,4 +1,4 @@
-# Meetup #2 (2023): Abstractive Summarization - State-of-the-art and the problem of factuality
+# Meetup #2 (2023): Federated Learning - Predicting the Next Node in Action Flows
 
 This repo contains the presentation of our second meetup in 2023 on "Federated Learning - Predicting the Next Node in Action Flows", presented by Daniel Lopes.
 
